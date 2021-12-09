@@ -10,6 +10,13 @@ Embed external mp4 CST (imgur)
 
 ![This is a video](https://i.imgur.com/aM9loRe.mp4)
 
+
+Embed external gif CST (imgur)
+
+![This is a gif](https://i.imgur.com/Os63UKo.gif)
+
+
+
 Embedded mp4
 
 https://user-images.githubusercontent.com/58320980/145364134-86ed7ea0-7d02-4b26-a885-fc5c6a1391c4.mp4
