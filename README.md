@@ -10,3 +10,7 @@ Embedded external Gif
 
 https://user-images.githubusercontent.com/58320980/145364134-86ed7ea0-7d02-4b26-a885-fc5c6a1391c4.mp4
 
+Youtube video embed trick
+
+[![Alt text](https://img.youtube.com/vi/w6jeKaQMyik/0.jpg)](https://www.youtube.com/watch?v=VID)
+
