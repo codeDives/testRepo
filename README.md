@@ -6,11 +6,15 @@ testing for Communities
 Embed external Image CST
 ![This is an image](https://i.imgur.com/8KpYb1J.jpeg)
 
-Embedded external Gif
+Embedded mp4
 
 https://user-images.githubusercontent.com/58320980/145364134-86ed7ea0-7d02-4b26-a885-fc5c6a1391c4.mp4
 
-Youtube video embed trick
+Youtube video thumbnail embed 
 
 [![Alt text](https://img.youtube.com/vi/w6jeKaQMyik/0.jpg)](https://www.youtube.com/watch?v=VID)
 
+
+Embed GIF 
+
+![giphy (1)](https://user-images.githubusercontent.com/58320980/145447641-a489b359-dbaf-41fb-8d31-d7ce24639a71.gif)
