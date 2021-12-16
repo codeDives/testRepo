@@ -1,7 +1,9 @@
 # testRepo
 ## testing for Communities
 
-Testing Images, gifs, mp4, CST sites
+12/10 Testing Images, gifs, mp4, CST sites
+12/16 Testing edits to the readme file.
+
 <br />
 <br />
 
